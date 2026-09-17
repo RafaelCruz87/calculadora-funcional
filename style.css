@@ -1,0 +1,62 @@
+body{
+    background-color: greenyellow;
+}
+#card{
+    width: 70%;
+    background-color: aquamarine;
+    margin: 0  auto;
+    text-align: center;
+   
+}
+#titulo{
+ margin-top: 55px;
+}
+#input{
+    display: flex;
+    flex-direction: column;
+     gap: 15px;
+     padding: 35px;
+}
+input{
+    padding: 15px;
+    border-radius: 15px;
+}
+#somar{
+    background-color: cornflowerblue;
+      padding: 25px;
+    border-radius: 15px;
+       color: aliceblue;
+          font-size: x-large;
+}
+#subtrair{
+     background-color: red;
+      padding: 25px;
+    border-radius: 15px;
+       color: aliceblue;
+          font-size: x-large;
+}
+#multiplicar{
+     background-color: greenyellow;
+      padding: 25px;
+    border-radius: 15px;
+       color: aliceblue;
+       font-size: x-large;
+}
+#dividir{
+     background-color: blueviolet;
+      padding: 25px;
+    border-radius: 15px;
+       color: aliceblue;
+          font-size: x-large;
+}
+#botao{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+ 
+   
+}
+#resultado{
+    margin-top: 55px;
+    font-size: x-large;
+}
